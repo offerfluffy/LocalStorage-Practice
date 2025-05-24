@@ -24,6 +24,7 @@ change.addEventListener("click", () => {
   }
 });
 
+// if we save just object it stores object Object
 const person = {
   name: "Alex",
   age: 12,
